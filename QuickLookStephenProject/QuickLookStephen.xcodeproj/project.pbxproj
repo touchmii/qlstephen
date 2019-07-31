@@ -24,13 +24,13 @@
 /* Begin PBXCopyFilesBuildPhase section */
 		AEF4F2780EDD58D400A55543 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "~/Library/Quicklook";
+			buildActionMask = 8;
+			dstPath = /Library/Quicklook;
 			dstSubfolderSpec = 0;
 			files = (
 				AEF4F27A0EDD58F800A55543 /* QLStephen.qlgenerator in CopyFiles */,
 			);
-			runOnlyForDeploymentPostprocessing = 0;
+			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
