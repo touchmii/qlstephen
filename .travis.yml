@@ -3,4 +3,4 @@ osx_image: xcode10.2
 xcode_project: QuickLookStephenProject/QuickLookStephen.xcodeproj
 xcode_scheme: QuickLookStephen
 script:
-- echo "skipping tests"
+ xcodebuild -project QuickLookStephenProject/QuickLookStephen.xcodeproj -scheme QuickLookStephen build
